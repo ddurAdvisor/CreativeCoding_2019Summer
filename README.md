@@ -56,17 +56,21 @@ Course Materials for 基于开源环境的创意建模
 
 ### 课程具体内容
 
-- [Arduino工作坊课程](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ArduinoCourse)
+- [Arduino工作坊课程](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/tree/master/ArduinoCourse)
 
-- [Processing工作坊课程](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse)
+- [Processing工作坊课程](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/tree/master/ProcessingCourse)
 
 ### 课程项目作业
 
-- [FinalProject课程项目](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/FinalProject)
+- [FinalProject课程项目](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/tree/master/FInalProject)
 
 ### 教学参考网站：  
+https://github.com/ddurAdvisor/CreativeCoding_2018Summer/tree/master/ProcessingCourse 2018年processing教学内容与代码库 
+https://github.com/ddurAdvisor/CreativeCoding_2018Summer/tree/master/ArduinoCourse 2018年Arduino教学内容与代码库  
+https://github.com/ddurAdvisor/CreativeCoding_2018Summer/tree/master/FInalProject 2018年Final Project教学内容与代码库  
 https://github.com/ddurAdvisor/CreativeCoding_2017Summer 2017年processing教学内容与代码库  
 https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Reference_2016 2016年processing教学内容与代码库  
+https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/FinalProject 2017年Final Project教学内容与代码库  
 
 http://www.arduino.cc/  
 http://www.processing.org/  
