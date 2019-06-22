@@ -218,8 +218,114 @@ else
             }
 ```
 
+背景类Back显示背景
 
+```
+        class Back
+        {
+            PImage[] background;
+            int x;                //背景1，x坐标
+            int y;                //背景1，y坐标
+            int count;
+            int x1;               //背景2，x1坐标
+            int x2;               //背景2，x2坐标
+            Back(int x, int y) {
+                background = new PImage[2];
+                this.x1=x;
+                this.x2=x+900;
+                this.y=y;
+                for (int i = 0; i< 2; i++) {
+                    String a = “background"+".bmp";
+                    background[i] = loadImage(a);
+                }
+            }
 
+            void run() {
+                x1—;
+                x2—;
+            }
+            void display() {
+                if (x1 == -900) {
+                    x1 =900;27                }
+                if (x2 == -900) {
+                    x2=900;
+                }
+
+                image(background[0], x1, y);
+                image(background[1], x2, y);
+            }
+         }
+```
+
+障碍类Blob
+
+```
+        class Blob
+        {
+            int time;
+            int[] obstacle;
+            int y;
+            int now;
+            boolean[] mark;                       //障碍显示标记
+            int r;                                //障碍半径
+            PImage disorder;                      //障碍图片
+            Blob(int r, int y) {
+                this.y = y;
+                this.r = r;
+                obstacle = new int[20];
+                mark = new boolean[20];
+                now = 0;
+                mark[now]=true;
+                for (int i = 0; i < 20; i++) {
+                    obstacle[i] = 1300;
+                }
+                disorder=loadImage(“obstacle.png”);
+                stroke(0);
+
+                strokeWeight(5);
+                line(0, y, 900, y);
+                fill(0);
+                obstacle[now]=1000;
+            }
+            void change() {
+                if (millis()%128 == 0) {
+                    if (abs(obstacle[now]-obstacle[(now+19)%20])>
+                        =350) {
+
+                        mark[now]=true;
+                        now=++now%20;
+                    }
+                }
+            }
+
+            void run() {
+                for (int i = 0; i < 20; i++) {
+                    if (mark[i]) {
+                        obstacle[i] = obstacle[i]-4;
+                    }
+                }
+            }
+
+            void display() {
+                stroke(0);
+                strokeWeight(5);
+                fill(0);
+
+                for (int i = 0; i < 20; i++) {
+                    if (obstacle[i]<-r) {
+                        mark[i]=false;
+                    }
+                }
+                for (int i = 0; i < 20; i++) { 56                    if (mark[i]) {
+                        fill(0);
+                        // arc(obstacle[i],y,r,r,PI,2*PI);
+                        image(disorder, obstacle[i]-20, y-46+40);
+                    }
+                }
+            }
+        }
+
+```
 
 ### 2018年课程作业分享
 
