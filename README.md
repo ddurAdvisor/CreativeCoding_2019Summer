@@ -2,86 +2,84 @@
 
 Course Materials for 基于开源环境的创意建模
 
-说明：本库为《基于开源环境的创意建模》课程而准备，内容为以processing为主要IDE（也会涉及到javascript的一些编程工作）的创意编程。
-### 具体内容如下：
+### 《基于开源集成开发环境的创意建模基础》课程教学大纲
 
-- Day1Part1: [创意建模的基本概念](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day1_workshop/ReferenceCode_01_BasicConcepts)
-- Day1Part2: [编程模式与语法基础：Loop与Function](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day1_workshop/ReferenceCode_02_Loops%20and%20functions)
-- Day2Part1:[编程模式与语法基础：Transformation](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day2_workshop/ReferenceCode_03_Transformations)
-- Day2Part2:[编程模式与语法基础：Motion](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day2_workshop/ReferenceCode_04_Motion)
-- Day3: ALGORITHMIC THINKING AND CREATIVITY
-- Day4: COLOUR, IMAGE, SOUND AND RANDOMNESS
-- Day5: TEXT AND TYPOGRAPHY
-- Day6: EVOLUTION AND ECOSYSTEMS
-- Final Project: Coding Challenge for Creativity
+#### 课程基本信息  
 
-### processing IDE下载链接
-包括Windows 64-bit、Windows 32-bit、Linux 64-bit、Linux 32-bit、Linux ARMv6hf、Mac OS X等各种版本。
+- 课程代码：   
+- 课程名称：基于开源集成开发环境的创意建模基础  
+- 学时/学分：4  
+- 先修课程： 专题设计I  
+- 面向对象： 工业设计一年级本科生  
+- 开课院（系）： 上海交通大学|设计学院|设计系|工业设计方向  
+- 教材、教学参考书：详见各章节
 
-- [processing IDE](https://www.processing.org/download/)
+#### 课程性质和任务  
 
-- [processing MACOS](https://pan.baidu.com/s/1WuMZKWgE23bbkeDgtOBkKw)   
-- 密码：4vnu
+- 《基于开源集成开发环境的创意建模基础》主要面向媒体与设计学院工业设计专业一年级的本科学生，其主要目的在于提高学生创新概念表达的能力、在科技与艺术融合中获取创新概念、发现创新价值的能力等设计创新能力。   
 
-- [processing WIN64](https://pan.baidu.com/s/15ZyS6bONP0eCp7ao5MRwZg)   
-- 密码：lk0b
+- 在工业设计专业产品创新核心课程的传统教学中，由于受制于专业知识、设备技术条件和成本因素的局限，学生对于创新概念的表达通常仅仅停留在手绘或计算机渲染的效果图这种平面的视觉化表现手段和以表达形态特征为主、无法展示其功能与人机交互关系的造型模型上（通常采用ABS板材、石膏或油泥制作的实芯物理模型），导致60%以上的设计思想无法呈现，这是一个严重的缺失。  
 
-### 中文字体
-- [雅黑合成字体](https://pan.baidu.com/s/1n02qAuDOsiroEgVzLm83dA)
-- 密码：zbp2
+- 尤其是现在，学生需要通过参与许多来自教学、社会与企业需要的创新设计活动来建立专业经验，但由于没有技术实现方面的实证支持，概念表达方面的不足使得学生的创意想法难以产生价值，也难以得到社会与企业的认同。这一阻碍学生创意能力发展的问题亟待解决。  
 
-### 其他IDE下载
+- 应用近年来在ICT信息技术领域蓬勃发展的软硬件开源和开放式创新理念于设计学习中，能帮助工业设计及产品创新设计相关专业的学生建立起跨越创意设计与技术实现之间鸿沟的桥梁。  
 
-- [Eclipse](https://www.eclipse.org/downloads/)
+- 借助processing、openFrameworks、Cinder等开源集成开发环境和Arduino、Edison一类的开源单片机硬件及传感器等器件，学生完全有能力将设计概念转化为具有功能性和造型的整合性原型，并且能够在设计学习中理解和切身感受设计、技术与社会及他们对于创新价值实现的影响与重要意义。  
 
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
+- 借助于这一创意设计概念快速原型搭建系统，也将有助于工业设计学生立足于更高层面从事创新活动，在观念与能力上形成明显的优势，为真正成为“理论+技术实践+创新设计”型的产品创意设计、开发新产品的创新型工程科技人才打下基础。  
 
-- [Sublime Text 3](https://www.sublimetext.com/3)
+- 本实验立足于培养学生创新概念的功能性原型构建的能力，学生将在实验中接触并掌握用户友好的开源的编程集成开发环境和用户友好的单片机编程环境，帮助从事设计创新学习的同学搭建起概念与实现、艺术与科技及比特与原子之间的通道。  
 
-### 相关学习资料
-#### 图书  
+#### 教学内容和基本要求
+  - 教学内容及供参考的学时要求：
+    教学与实践内容分为两个部分，共计64学时，其中：
+    
+####  一、系统基础：16学时  
+    第1节 Arduino及Arduino C语言介绍 4学时  
+    第2节 Arduino开发环境的配置 4学时  
+    第3节 Processing及Eclipse集成开发环境（IDE） 4学时  
+    第4节 基于Arduino和Processing开源环境的数字创意原型 4学时  
+    
+#### 二、创意原型搭建：48学时  
+    第1节 室内温湿度计 8学时  
+    第2节 RGB LED智能灯具 16学时  
+    第3节 自拟创意项目开发 24学时  
 
-![img](https://images-na.ssl-images-amazon.com/images/I/41bXobLNUdL._SX322_BO1,204,203,200_.jpg)
-- [Getting Started with Processing: A Hands-On Introduction to Making Interactive Graphics 2nd Edition](https://www.amazon.com/Getting-Started-Processing-Hands-Introduction/dp/1457187086/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1457187086&pd_rd_r=39EFQ5BMNBS5Q3KR9DZ3&pd_rd_w=6bWbS&pd_rd_wg=JmWHL&psc=1&refRID=39EFQ5BMNBS5Q3KR9DZ3)
+#### 对学生能力培养的要求
 
-![img](https://images-na.ssl-images-amazon.com/images/I/51GxY%2BzTcqL._SX376_BO1,204,203,200_.jpg)
-- [Processing: A Programming Handbook for Visual Designers and Artists (MIT Press) second edition Edition](https://www.amazon.com/Processing-Programming-Handbook-Designers-Artists/dp/026202828X/ref=sr_1_6?s=books&ie=UTF8&qid=1406934187&sr=1-6&keywords=processing)
+  本实验面向工业设计专业学生，是为培养和提高学生在设计创新、产品创新学习与研究中在功能性原型构建方面的能力所设计的实验训练项目。其特色与创新点主要表现在：
+- 培养学生创新概念的表达能力与实现能力；
+- 培养学生建立在当代整合创新理念基础上的集成科技、商业、社会文化的设计创新意识培养与实践体验；
+- 培养学生将创意转化为创新的意识与能力，培养从产品、商品、用品三重属性的理解建构学生形成符合当代创新理念的整合思维和设计思维；
+- 强调艺术与科技的结合，及从艺术与科技的融合中获取创新概念的能力。
 
-![img](https://images-na.ssl-images-amazon.com/images/I/5111uin0qPL._SX404_BO1,204,203,200_.jpg)
-- [Learning Processing, Second Edition: A Beginner's Guide to Programming Images, Animation, and Interaction (The Morgan Kaufmann Series in Computer Graphics) 2nd Edition](https://www.amazon.com/Learning-Processing-Second-Programming-Interaction/dp/0123944430/ref=pd_bxgy_14_img_3/146-6942240-7186152?_encoding=UTF8&pd_rd_i=0123944430&pd_rd_r=Y6YVNDQ9T3CGAP4T89AS&pd_rd_w=8fsGL&pd_rd_wg=eBbbX&psc=1&refRID=Y6YVNDQ9T3CGAP4T89AS)
 
-![img](https://images-na.ssl-images-amazon.com/images/I/41Z3sTjk1zL._SX258_BO1,204,203,200_.jpg)
-- [Generative Art: A Practical Guide Using Processing 1st Edition](https://www.amazon.com/Generative-Art-Practical-Guide-Processing/dp/1935182625/ref=pd_sim_14_9?_encoding=UTF8&pd_rd_i=1935182625&pd_rd_r=TSYH2Q1E99NNZGJHPQ33&pd_rd_w=dGs9B&pd_rd_wg=rj7wQ&psc=1&refRID=TSYH2Q1E99NNZGJHPQ33)
+### 课程具体内容
 
-![img](https://images-na.ssl-images-amazon.com/images/I/51v4RHM5s8L._SX358_BO1,204,203,200_.jpg)
-- [Generative Design: Visualize, Program, and Create with Processing ](https://www.amazon.com/Generative-Design-Visualize-Program-Processing/dp/1616890770/ref=pd_sim_14_7?_encoding=UTF8&pd_rd_i=1616890770&pd_rd_r=819E8Y9182VRJA0N90J9&pd_rd_w=4Mt1h&pd_rd_wg=eFvV6&psc=1&refRID=819E8Y9182VRJA0N90J9)
+- [Arduino工作坊课程](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ArduinoCourse)
 
-![img](https://images-na.ssl-images-amazon.com/images/I/51fKQ8KmCHL.jpg)
-- [Processing for Visual Artists: How to Create Expressive Images and Interactive Art](https://www.amazon.com/Processing-Visual-Artists-Expressive-Interactive/dp/1568817169/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=1568817169&pd_rd_r=39EFQ5BMNBS5Q3KR9DZ3&pd_rd_w=6bWbS&pd_rd_wg=JmWHL&psc=1&refRID=39EFQ5BMNBS5Q3KR9DZ3)
+- [Processing工作坊课程](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse)
 
-#### wiki
-- [processing wiki](https://github.com/processing/processing/wiki)
+### 课程项目作业
 
-#### Forum
+- [FinalProject课程项目](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/FinalProject)
 
-- [processing forum](https://forum.processing.org/two/)
-- [stackoverflow](https://stackoverflow.com/)
+### 教学参考网站：  
+https://github.com/ddurAdvisor/CreativeCoding_2017Summer 2017年processing教学内容与代码库  
+https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Reference_2016 2016年processing教学内容与代码库  
 
-#### 视频
+http://www.arduino.cc/  
+http://www.processing.org/  
+http://www.instructables.com/  
+http://blog.makezine.com/  
+http://itpblog.efuller.net/near-you/#more-1594  
+http://itp.nyu.edu/physcomp/sensors/Reports/MMA7260Q  
+http://www.tigoe.net/blog/  
+http://itp.nyu.edu/physcomp/Tutorials/Tutorials  
+http://www.pixelsumo.com/view-all  
+http://www.sparkfun.com/  
+http://blog.flamingoeda.com/category/arduino/  
+http://www.dfrobot.com/  
 
-- [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/watch?v=2VLaIr5Ckbs&list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi&index=1)
-- [Jose Sanchez: Processing Tutorial Series](https://www.youtube.com/watch?v=9UcL8B0GQuE)
-- [vimeo generative design](https://vimeo.com/search/page:1/sort:relevant/format:thumbnail?q=generative%20design%20processing)
 
-#### 参考项目链接
 
-- [openprocessing](https://www.openprocessing.org/)
-- [creativeapplications](http://www.creativeapplications.net/)
-
-#### 参考网站
-
-- [Algorithmic Art](https://www.meetup.com/Algorithmic-Art/)
-
-#### 相关课程
-
-- [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/)
