@@ -68,6 +68,7 @@ https://www.arduino.cc/
 - [arduino web based mp3 player](https://create.arduino.cc/projecthub/khanhhs/arduino-web-based-mp3-player-9bc616?ref=similar&ref_id=43623&offset=2)
 
 - [画图机器人 Polargraph](https://www.instructables.com/id/Polargraph-Drawing-Machine/?ALLSTEP)
+![img](https://github.com/yanyan104/CreativeCoding_2019Summer/blob/master/photo/画图机器人.png)
 
 #### 参考网站
 
