@@ -34,6 +34,13 @@
 - 统一提交时间为第十九周周日之前（请班长与助教预约时间）
 
 
+### 2018年课程作业分享
+
+- [不倒翁型智能交互花盆 顾冰姿 ](https://github.com/pudding2769/CreativeCoding_2018Summer/tree/master/Roly-Poly%20Smart%20Interactive%20Pot%20%20by%20%20PingTzu%20Ku)
+
+- [BE QUICKER小游戏 史书圆 ](https://github.com/ssy764225231/final-program.git)
+
+- [听觉反馈超声波雷达在助盲方面可行性探究 周天宇 ](https://github.com/zhoutianyu14/Finalproject2018summer-Creativecoding)
 
 ### 2017作业分享
 以海洋为主题的引导式放松程序
