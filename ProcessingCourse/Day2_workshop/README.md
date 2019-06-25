@@ -16,3 +16,6 @@
 
 [bit2atom_190625_04_array](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/tree/master/ProcessingCourse/Day2_workshop/bit2atom_190625_04_array)
 ![img](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/blob/master/ProcessingCourse/Day2_workshop/images/array02.png)
+
+[bit2atom_190625_04_array](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/tree/master/ProcessingCourse/Day2_workshop/bit2atom_190625_04_array)
+![img](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/blob/master/ProcessingCourse/Day2_workshop/images/array03.png)
