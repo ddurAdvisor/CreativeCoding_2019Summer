@@ -11,3 +11,11 @@
 [bit2atom_190626_03_class_repellence](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/tree/master/ProcessingCourse/Day3_workshop/bit2atom_190626_03_class_repellence)
 
 ![img](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/blob/master/ProcessingCourse/Day3_workshop/images/class03.png)
+
+[bit2atom_190626_04_class_repellence](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/tree/master/ProcessingCourse/Day3_workshop/bit2atom_190626_04_class_repellence)
+
+![img](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/blob/master/ProcessingCourse/Day3_workshop/images/array04.png)
+
+[bit2atom_190626_05_ArrayList](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/tree/master/ProcessingCourse/Day3_workshop/bit2atom_190626_05_ArrayList)
+
+![img](https://github.com/ddurAdvisor/CreativeCoding_2019Summer/blob/master/ProcessingCourse/Day3_workshop/images/arrayList05.png)
