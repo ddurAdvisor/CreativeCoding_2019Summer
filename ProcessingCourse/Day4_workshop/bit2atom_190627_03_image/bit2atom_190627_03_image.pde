@@ -18,9 +18,9 @@ void initiate() {
   for (int i = 0; i < width; i ++) {
     for (int j = 0; j < height; j ++) {
       if (i > width/3 && i < width/2 && j > height/3 && j < height/2) {
-        img.pixels[i+j*height] = color(255, 255, 0);
+        img.pixels[i+j*width] = color(255, 255, 0);
       } else {
-        img.pixels[i+j*height] = color(255, 255, 255);
+        img.pixels[i+j*width] = color(255, 255, 255);
       }
     }
     img.updatePixels();
