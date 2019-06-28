@@ -29,8 +29,8 @@ Course Materials for 基于开源环境的创意建模
 - 密码：lk0b
 
 ### 中文字体
-- [雅黑合成字体](https://pan.baidu.com/s/1n02qAuDOsiroEgVzLm83dA)
-- 密码：zbp2
+- [雅黑合成字体](https://pan.baidu.com/s/10wzL6X-Nerqwty4fAgEUUw)
+- 密码：cl3l
 
 ### 其他IDE下载
 
